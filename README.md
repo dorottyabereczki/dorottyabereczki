@@ -11,9 +11,9 @@ This repo is where I share:
 <h2>Academic Essays:</h2>
 
 - <b>Relationship between sustainability and profitability in the oil and gas industry in the European Union - BSc Project</b>
-  - [https://github.com/dorottyabereczki/BSc_project]
+  - [BSc Project](https://github.com/dorottyabereczki/BSc_project)
 - <b>Price changing factors in the European natural gas market and how does it affect the renewable energy market - Seminar project</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Seminar Report]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/dorottyabereczki/Seminar_report))
 
 <h2>Coding projects:</h2>
 
