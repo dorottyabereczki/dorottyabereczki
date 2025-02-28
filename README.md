@@ -18,7 +18,7 @@ This repo is where I share:
 <h2>Coding projects:</h2>
 
 - <b>Time series analysis and forecasting of power spot prices with seasonal ARIMAX model</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Time series analysis](https://github.com/dorottyabereczki/timeseries)
 
 <h2>Connect with me:</h2>
 
