@@ -11,9 +11,9 @@ This repo is where I share:
 <h2>Academic Essays:</h2>
 
 - <b>Relationship between sustainability and profitability in the oil and gas industry in the European Union - BSc Project</b>
-  - [BSc Project](https://github.com/dorottyabereczki/BSc_project)
+  - [BSc Project](https://github.com/dorottyabereczki/BSc_project/blob/main/Dorottya_Bereczki_BSc_project.pdf)
 - <b>Price changing factors in the European natural gas market and how does it affect the renewable energy market - Seminar project</b>
-  - [Seminar Report](https://github.com/dorottyabereczki/Seminar_report)
+  - [Seminar Report](https://github.com/dorottyabereczki/Seminar_report/blob/main/Seminar_Report_Dorottya_Bereczki_2022_winter.pdf)
 
 <h2>Coding projects:</h2>
 
