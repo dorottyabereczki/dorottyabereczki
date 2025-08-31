@@ -15,7 +15,7 @@ This repo is where I share:
 - <b>Price changing factors in the European natural gas market and how does it affect the renewable energy market - Seminar project</b>
   - [Seminar Report](https://github.com/dorottyabereczki/Seminar_report/blob/main/Seminar_Report_Dorottya_Bereczki_2022_winter.pdf)
 - <b>Drivers of the Day-Ahead Electricity Prices in the Nordic Market: A Panel Data Analysis of Denmark, Norway, and Sweden - MSc Project</b>
-  - [MSc Project]([https://github.com/dorottyabereczki/MSc_project/blob/main/MSc%20thesis_Dorottya%20Bereczki.pdf])
+  - [MSc Project](https://github.com/dorottyabereczki/MSc_project/blob/main/MSc%20thesis_Dorottya%20Bereczki.pdf)
 
 <h2>Connect with me:</h2>
 
