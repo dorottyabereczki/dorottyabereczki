@@ -14,11 +14,8 @@ This repo is where I share:
   - [BSc Project](https://github.com/dorottyabereczki/BSc_project/blob/main/Dorottya_Bereczki_BSc_project.pdf)
 - <b>Price changing factors in the European natural gas market and how does it affect the renewable energy market - Seminar project</b>
   - [Seminar Report](https://github.com/dorottyabereczki/Seminar_report/blob/main/Seminar_Report_Dorottya_Bereczki_2022_winter.pdf)
-
-<h2>Coding projects:</h2>
-
-- <b>Time series analysis and forecasting of power spot prices with seasonal ARIMAX model</b>
-  - [Time series analysis](https://github.com/dorottyabereczki/timeseries)
+- <b>Drivers of the Day-Ahead Electricity Prices in the Nordic Market: A Panel Data Analysis of Denmark, Norway, and Sweden - MSc Project</b>
+  - [MSc Project]([https://github.com/dorottyabereczki/MSc_project/blob/main/MSc%20thesis_Dorottya%20Bereczki.pdf])
 
 <h2>Connect with me:</h2>
 
