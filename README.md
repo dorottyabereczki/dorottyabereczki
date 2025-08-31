@@ -1,11 +1,9 @@
 <h1>Hi, I'm Dorottya! <br/><a href="https://github.com/dorottyabereczki">Finance and International Business master's student</a></h1>
 
 <h2>About me</h2>
-I'm a Master's student in Finance and International Business at Aarhus University, with a deep interest in energy markets. I'm always looking to learn and grow in this field.
+I'm a fresh graduate from Finance and International Business MSc at Aarhus University, with a deep interest in energy markets. I'm always looking to learn and grow in this field.
 
-This repo is where I share:
-
-- Some of my academic essays and reports that showcase my analytical skills and knowledge.
+This repo is where I share some of my academic essays and reports that showcase my analytical skills and knowledge.
 
 
 <h2>Academic Essays:</h2>
