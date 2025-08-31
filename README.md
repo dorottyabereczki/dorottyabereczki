@@ -6,7 +6,7 @@ I'm a Master's student in Finance and International Business at Aarhus Universit
 This repo is where I share:
 
 - Some of my academic essays and reports that showcase my analytical skills and knowledge.
-- Coding projects and scripts that highlight my Python skills.
+
 
 <h2>Academic Essays:</h2>
 
